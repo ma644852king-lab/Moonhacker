@@ -1,5 +1,4 @@
 # Moonhacker
-![Banner](image-2026-08-24T14_23_32.996Z.png)
 My cyber Security profile
 # Hi, I am Moon Hacker 👋
 ### Cyber Security Learner | Ethical Hacker | Bug Bounty Hunter (In Progress)
